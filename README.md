@@ -18,3 +18,7 @@ Based on our analysis, below are the findings that we observed:
 * Most tweets come from the States.
 * Most of the tweets targeted towards American, United and US Airways contain negative sentiment. 
 * Tweets targeted towards Delta, Virgin and Southwest containing roughly same proportion of negative, neutral and positive sentiment.
+
+Check out the "US Airline Sentiment Analysis Final Report.pdf" in the repository for detailed analysis.
+
+If you have any doubts or suggestions please feel free to email me at pra22@njit.edu. Thank you!
